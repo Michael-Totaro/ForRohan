@@ -175,8 +175,8 @@ public class Rohan {
     }
 
     /**
-	 * Sets Rohans favorite sport.
-	 * @throws RohanException If the sport is not football and the sport is not golf.
+     * Sets Rohans favorite sport.
+     * @throws RohanException If the sport is not football and the sport is not golf.
      */
     public void setSport(String sport) throws RohanException {
         if (!sport.equalsIgnoreCase("football") && !sport.equalsIgnoreCase("golf")) {
@@ -186,7 +186,7 @@ public class Rohan {
     }
 
     /**
-	 * Returns Rohans favorite sport
+     * Returns Rohans favorite sport
      */
     public String getSport() {
         return favSport;
