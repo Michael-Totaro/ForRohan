@@ -14,6 +14,7 @@ Rohan go to the folder titled "src" and click on the java program titled "playgr
 
      Step 6: Just keep going with downloading the file and stuff. I'm not 100% sure what you do after step 5, but
              I think it should be pretty straight foward.
+             
      Step 7: Go to LaunchPad and look up "terminal". It should look like a black app icon with a triangle and dash in
              the top right corner.
 
