@@ -1,6 +1,6 @@
 Rohan go to the folder titled "src" and click on the java program titled "playground.java" and read the comment or you can read what the comment says right here.
 
-First: Download Java
+**First:** Download Java
 
      Step 1: Go to this link -> https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html.
 
@@ -23,7 +23,7 @@ First: Download Java
 
 
 
-Second: Download a text editor: Atom
+**Second:** Download a text editor: Atom
 
      Step 1: Go to this link -> https://atom.io/
 
@@ -37,7 +37,7 @@ Second: Download a text editor: Atom
      Step 5: More info on how to setup Atom if you're having issues -> https://www.geeksforgeeks.org/how-to-setup-atom-editor-with-all-the-required-packages/
 
 
-Third: Pull the project from GitHub and copy it on to your own computer
+**Third:** Pull the project from GitHub and copy it on to your own computer
 
      Step 1: Go to your terminal and type (copy and paste) the following command: pwd
 
@@ -53,7 +53,7 @@ Third: Pull the project from GitHub and copy it on to your own computer
              
      Step 5: In the left hand side drop down click "Playground.java" and continue to read this comment
 
-Fourth: Compiling the programs.
+**Fourth:** Compiling the programs.
 
      Step 1: Go to your terminal and type (copy and paste) the following command: pwd
             /Users/rohankothadia (or Users/whatever your username is) should be printed to
@@ -71,7 +71,7 @@ Fourth: Compiling the programs.
              javac -d bin -cp bin src/Rohan.java
              javac -d bin -cp bin src/RohanException.java
 
-Fifth: Running the file
+**Fifth:** Running the file
 
     Step 1: To run the file type the following command into your terminal:
             javac -d bin -cp src/Playground.java
