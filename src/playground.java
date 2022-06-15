@@ -65,14 +65,16 @@ Fourth: Compiling the programs.
              Note that these commands aren't going to produce any output and you only have to type these
              once since they're just for compiling, not running, the program:
 
-             javac -d bin -cp bin src/Playground.java
-             javac -d bin -cp bin src/Rohan.java
              javac -d bin -cp bin src/RohanException.java
+             javac -d bin -cp bin src/Rohan.java
+             javac -d bin -cp bin src/Playground.java
 
 Fifth: Running the file
     Step 1: To run the file type the following command into your terminal:
-            javac -d bin -cp src/Playground.java
 
+            cd src
+            java Playground
+            
     Step 2: Text should be printed to the console and you should see a prompt saying
             "What is Rohan's school: ". Answer correctly and the program should not
             throw an error.

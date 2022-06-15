@@ -12,22 +12,22 @@ public class Rohan {
     /** Rohans favorite sport */
     public String favSport;
 
-	/**
-	 * Constructor for a Rohan object. Consctructs object by calling setter methods.
+    /**
+     * Constructor for a Rohan object. Consctructs object by calling setter methods.
      *
      * @param school School Rohan attends
      * @param date Todays current date used to calculate Rohans age
      * @param mascot The mascot of Rohans school
      * @param sport Rohans favorite sport
      * @throws RohanException If school or sport is wrong.
-	 */
+     */
     public Rohan(String school, String date, String mascot, String sport) throws RohanException {
         setSchool(school);
         setAge(date);
         setMascot(mascot);
         setSport(sport);
     }
-
+    
     /**
      * Sets the school variable to the parameter, if the parameter is correct.
      *
@@ -75,7 +75,6 @@ public class Rohan {
     /**
      * Returns school mascot. If "cock" is a substring of the mascot string
      * the string " (lol)" is appended to the end of the string
-     *
      */
     public String getMascot() {
         if (mascot.toLowerCase().contains("cock")) {
@@ -154,10 +153,10 @@ public class Rohan {
     }
 
     /**
-	 * Sets Rohans age. Calls the calcAge() method to determine Rohans age
+     * Sets Rohans age. Calls the calcAge() method to determine Rohans age
      * based on the current date.
-	 * @param Todays current date.
-     * @throws IllegalArgumentException If the date is not formatted with "/"
+     * @param Todays current date.
+     * @throws IllegalArgumentException If the date is not formatted with
      *         characters properly.
      */
     public void setAge(String date) {
@@ -168,7 +167,7 @@ public class Rohan {
     }
 
     /**
-	 * Returns Rohans age.
+     * Returns Rohans age.
      */
     public String getAge() {
         return age;
