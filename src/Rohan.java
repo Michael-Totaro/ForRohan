@@ -73,12 +73,12 @@ public class Rohan {
     }
 
     /**
-     * Returns school mascot. If "cock" is contained in the string
-     * the string " (lol)" is added to the end.
+     * Returns school mascot. If "cock" is a substring of the mascot string
+     * the string " (lol)" is appended to the end of the string
      *
      */
     public String getMascot() {
-        if (mascot.contains("cock")) {
+        if (mascot.toLowerCase().contains("cock")) {
             mascot += " (lol)";
         }
 

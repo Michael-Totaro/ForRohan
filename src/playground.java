@@ -49,7 +49,7 @@ Third: Pull the project from GitHub and copy it on to your own computer
 
      Step 4: Under rohankothadia (or whatever your username is) in your finder click on ForRohan and open it in Atom. You should see it appear
              in the text editor and the left hand side under "Project"
-             
+
      Step 5: In the left hand side drop down click "Playground.java" and continue to read this comment
 
 Fourth: Compiling the programs.
@@ -78,13 +78,6 @@ Fifth: Running the file
             throw an error.
 
     Step 3: Enjoy.
-
-
-
-
-
-
-
 */
 
 import java.util.Scanner;
@@ -153,7 +146,7 @@ public class Playground {
      * @throws RohanException If school or sport is wrong.
      */
     public static Rohan r2() throws RohanException {
-        Rohan r2 = new Rohan("USC", "4/20/2021", "chicken thing", "football");
-        return r2;
+        Rohan rohanTwo = new Rohan("USC", "4/20/2021", "chicken thing", "football");
+        return rohanTwo;
     }
 }
