@@ -3,6 +3,7 @@ Rohan go to the folder titled "src" and click on the java program titled "Playgr
 HOW TO RUN THIS PROGRAM: Read this. 
 
 **First**: Download Java
+
      Step 1: Go to this link -> https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html.
 
      Step 2: Create an account with Oracle and sign in.
@@ -26,6 +27,7 @@ HOW TO RUN THIS PROGRAM: Read this.
 
 
 **Second**: Download a text editor: Atom
+
      Step 1: Go to this link -> https://atom.io/
 
      Step 2: Click the yellow button that says "Download" under the macOS version.
@@ -39,6 +41,7 @@ HOW TO RUN THIS PROGRAM: Read this.
 
 
 **Third**: Create the project on your computer.
+
      Step 1: Go to your terminal and type (copy and paste) the following command:
 
              pwd
@@ -73,6 +76,7 @@ HOW TO RUN THIS PROGRAM: Read this.
              "Save" a blue dot should disapper next to your file name in atom after doing this.
 
 **Fourth**: Compiling the programs.
+
      Step 1: Go to your terminal and type (copy and paste) the following command:
 
              pwd
