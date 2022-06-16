@@ -1,10 +1,10 @@
-Rohan go to the folder titled "src" and click on the java program titled "Playground.java" and read the comment or you can read what the comment says right here. [The Link]([url](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html))
+Rohan go to the folder titled "src" and click on the java program titled "Playground.java" and read the comment or you can read what the comment says right here.
 
 HOW TO RUN THIS PROGRAM: Read this. 
 
 **First**: Download Java
 
-     Step 1: Go to this link -> [The Link]([url](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html))
+     Step 1: Go to this link -> https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html
 
      Step 2: Create an account with Oracle and sign in.
 
