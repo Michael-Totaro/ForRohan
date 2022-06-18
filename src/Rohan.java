@@ -27,7 +27,7 @@ public class Rohan {
         setMascot(mascot);
         setSport(sport);
     }
-    
+
     /**
      * Sets the school variable to the parameter, if the parameter is correct.
      *
@@ -40,8 +40,10 @@ public class Rohan {
     public void setSchool(String school) throws RohanException {
         if (!school.equalsIgnoreCase("USC") && !school.equalsIgnoreCase("UofSC") && !school.equalsIgnoreCase("The University of South Carolina")
             && !school.equalsIgnoreCase("University of South Carolina") && !school.equalsIgnoreCase("South Carolina")) {
+
             String ex = "Rohan doesn't attend \"" + school + "\"!";
             throw new RohanException(ex);
+
         }
 
         if (school == null) {
