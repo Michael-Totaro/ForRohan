@@ -60,17 +60,24 @@ Third: Create the project on your computer.
             touch Playground.java
             touch Rohan.java
             touch RohanException.java
-            open -a "Atom" Playground.java
-            open -a "Atom" Rohan.java
-            open -a "Atom" RohanException.java
+
+            For the next commands you can either open
+            each file invidually by doing the following
+            three commands
+
+            open -a "Atom" Playground5.java
+            open -a "Atom" Rohan5.java
+            open -a "Atom" RohanException5.java
+
+            Or you can just open the whole folder at once by
+            doing the following two commands.
+
+            cd ~
+            open -a "Atom" ForRohan
 
             * Note that the open command might take a second to open the file.
 
-     Step 3: Open the Atom application and open the ForRohan folder you created in step 2.
-
-     Step 4: Open all the blank java files in the src folder in the Atom text editor.
-
-     Step 5: Open this Github link -> https://github.com/Michael-Totaro/ForRohan. Go to
+     Step 3: Open this Github link -> https://github.com/Michael-Totaro/ForRohan. Go to
              the src folder and open and copy and paste the code in the java files into their corresponding
              files in Atom. Make sure to save all the files in atom after your done copying and pasting.
 
