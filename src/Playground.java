@@ -65,10 +65,11 @@ Third: Create the project on your computer.
 
             After doing this your computer should take you to the Atom text editor.
             A folder titled "ForRohan" should be located in the column on the left
-            hand side under text that says "Project" click on this than drop down
+            hand side under text that says "Project" click on this, than drop down
             options should appear. One of the the options should be titled "src".
-            Click on the "src" folder and open each file. Note that the files
-            should just be blank right now with nothing in them.
+            Click on the "src" folder and open the three files titled "Playground.java",
+            "Rohan.java", and "RohanException.java". Note that the files should just be
+            blank right now with nothing in them.
 
             If (and only if) you can't figure how to open the files once your in
             Atom, exit out of Atom and go back to your terminal and type the following
