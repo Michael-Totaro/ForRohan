@@ -85,9 +85,10 @@ Third: Create the project on your computer.
 
             * Note that the open command might take a second to open the file.
 
-     Step 3: Open this Github link -> https://github.com/Michael-Totaro/ForRohan. Go to
-             the src folder and open and copy and paste the code in the java files into their corresponding
-             files in Atom. Make sure to save all the files in atom after your done copying and pasting.
+     Step 3: Open this Github link -> https://github.com/Michael-Totaro/ForRohan
+             Go to the src folder and open and copy and paste the code in the java
+             files into their corresponding files in Atom. Make sure to save all
+             the files in atom after your done copying and pasting.
 
              Note that to save a file go up to the very top Apple menu bar (above Atom, not in Atom)
              and next to the apple logo and text that says "Atom" select "File" and then select
