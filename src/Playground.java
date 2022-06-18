@@ -54,26 +54,33 @@ Third: Create the project on your computer.
 
             mkdir ForRohan
             cd ForRohan
-            mkdir src
             mkdir bin
+            mkdir src
             cd src
             touch Playground.java
             touch Rohan.java
             touch RohanException.java
-
-            For the next commands you can either open
-            each file invidually by doing the following
-            three commands
-
-            open -a "Atom" Playground5.java
-            open -a "Atom" Rohan5.java
-            open -a "Atom" RohanException5.java
-
-            Or you can just open the whole folder at once by
-            doing the following two commands.
-
             cd ~
             open -a "Atom" ForRohan
+
+            After doing this your computer should take you to the Atom text editor.
+            A folder titled "ForRohan" should be located in the column on the left
+            hand side under text that says "Project" click on this than drop down
+            options should appear. One of the the options should be titled "src".
+            Click on the "src" folder and open each file. Note that the files
+            should just be blank right now with nothing in them.
+
+            If (and only if) you can't figure how to open the files once your in
+            Atom, exit out of Atom and go back to your terminal and type the following
+            commands. Again if you figured out how to open the blank files these
+            commands aren't necessary and you should just move on to step 3.
+
+            cd ~
+            cd ForRohan
+            cd src
+            open -a "Atom" Playground.java
+            open -a "Atom" Rohan.java
+            open -a "Atom" RohanException.java
 
             * Note that the open command might take a second to open the file.
 
