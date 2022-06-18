@@ -127,7 +127,8 @@ Fifth: Running the file
             throw an error.
 
     Step 4: You can delete this enormous comment from the "Playground.java" file once
-            your done completing the steps. It's lines  1 - 125
+            your done completing the steps. It's lines  1 - 133
+
     Step 5: Enjoy.
 */
 
